@@ -1,0 +1,29 @@
+package com.example.atombuilder.ui.components.common
+
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.unit.TextUnit
+import androidx.compose.ui.unit.dp
+
+
+@Composable
+fun GradientText(text: String, fontSize: TextUnit, fontWeight: FontWeight, gradient: Brush) {
+    Box(modifier = Modifier.padding(8.dp)) {
+        Text(
+            text = text,
+            fontSize = fontSize,
+            fontWeight = fontWeight,
+            textAlign = TextAlign.Center,
+            color = Color.Transparent,
+            style = TextStyle(brush = gradient)
+        )
+    }
+}

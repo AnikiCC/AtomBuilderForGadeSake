@@ -1,0 +1,60 @@
+@startuml
+class com.example.atombuilder.data.Atom {
+}
+class com.example.atombuilder.data.Orbit {
+}
+class com.example.atombuilder.data.Level {
+}
+class com.example.atombuilder.services.JsonDatabase {
+- JSONObject data
++ Atom? getAtom(String)
+}
+
+
+class com.example.atombuilder.MainActivity {
+- SharedPreferences preferences
+- SoundManager soundManager
++ void onCreate(Bundle?)
++ void onDestroy()
+}
+
+
+enum com.example.atombuilder.AppScreen {
++  MainMenu
++  Game
++  Challenges
++  Settings
+}
+
+class com.example.atombuilder.services.SoundManager {
+-  menuMusic
+-  gameMusic
+-  challengeMusic
+- Int buttonClickSoundId
+- Int successSoundId
+- Int failureSoundId
+- MediaPlayer? mediaPlayer
+-  soundPool
+-  musicVolume
+-  soundEffectsVolume
++ void playMenuMusic()
++ void playGameMusic()
++ void playChallengeMusic()
+- void playMusic(Int)
++ void playButtonClick()
++ void playSuccess()
++ void playFailure()
++ void setMusicVolume(Float)
++ void setSoundEffectsVolume(Float)
++ Float getMusicVolume()
++ Float getSoundEffectsVolume()
++ void release()
+}
+
+
+class com.example.atombuilder.data.Electron {
+}
+
+
+androidx.activity.ComponentActivity <|-- com.example.atombuilder.MainActivity
+@enduml

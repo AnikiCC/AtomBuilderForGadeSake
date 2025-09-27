@@ -1,0 +1,474 @@
+{
+  "Hydrogen": {
+    "electrons_per_orbit": "1",
+    "description": "Самый распространенный элемент во Вселенной, основное топливо звезд"
+  },
+  "Helium": {
+    "electrons_per_orbit": "2",
+    "description": "Не имеет запаха, вкуса и цвета; используется в дирижаблях и криогенной технике"
+  },
+  "Lithium": {
+    "electrons_per_orbit": "2,1",
+    "description": "Самый легкий металл, важный компонент аккумуляторных батарей"
+  },
+  "Beryllium": {
+    "electrons_per_orbit": "2,2",
+    "description": "Токсичный металл, применяется в авиастроении и рентгеновской технике"
+  },
+  "Boron": {
+    "electrons_per_orbit": "2,3",
+    "description": "Используется в стеклах, моющих средствах и ядерной технике"
+  },
+  "Carbon": {
+    "electrons_per_orbit": "2,4",
+    "description": "Основа всей органической жизни на Земле"
+  },
+  "Nitrogen": {
+    "electrons_per_orbit": "2,5",
+    "description": "Составляет около 78% атмосферы Земли"
+  },
+  "Oxygen": {
+    "electrons_per_orbit": "2,6",
+    "description": "Наиболее необходимый для дыхания элемент"
+  },
+  "Fluorine": {
+    "electrons_per_orbit": "2,7",
+    "description": "Самый реактивный неметалл"
+  },
+  "Neon": {
+    "electrons_per_orbit": "2,8",
+    "description": "Используется в рекламных вывесках и световых трубках"
+  },
+  "Sodium": {
+    "electrons_per_orbit": "2,8,1",
+    "description": "Реагирует с водой со взрывом; содержится в поваренной соли"
+  },
+  "Magnesium": {
+    "electrons_per_orbit": "2,8,2",
+    "description": "Важный элемент хлорофилла в растениях"
+  },
+  "Aluminium": {
+    "electrons_per_orbit": "2,8,3",
+    "description": "Самый распространенный металлический элемент в земной коре"
+  },
+  "Silicon": {
+    "electrons_per_orbit": "2,8,4",
+    "description": "Основной компонент песка и стекла"
+  },
+  "Phosphorus": {
+    "electrons_per_orbit": "2,8,5",
+    "description": "Важный элемент в удобрениях и спичках"
+  },
+  "Sulfur": {
+    "electrons_per_orbit": "2,8,6",
+    "description": "Дает характерный запах тухлых яиц"
+  },
+  "Chlorine": {
+    "electrons_per_orbit": "2,8,7",
+    "description": "Используется для дезинфекции воды"
+  },
+  "Argon": {
+    "electrons_per_orbit": "2,8,8",
+    "description": "Третий по распространенности газ в атмосфере Земли"
+  },
+  "Potassium": {
+    "electrons_per_orbit": "2,8,8,1",
+    "description": "Важен для работы клеток организма"
+  },
+  "Calcium": {
+    "electrons_per_orbit": "2,8,8,2",
+    "description": "Основной строительный материал костей и зубов"
+  },
+  "Scandium": {
+    "electrons_per_orbit": "2,8,9,2",
+    "description": "Используется в алюминиевых сплавах для аэрокосмической промышленности"
+  },
+  "Titanium": {
+    "electrons_per_orbit": "2,8,10,2",
+    "description": "Прочный, легкий металл, устойчивый к коррозии"
+  },
+  "Vanadium": {
+    "electrons_per_orbit": "2,8,11,2",
+    "description": "Добавляется в сталь для повышения прочности"
+  },
+  "Chromium": {
+    "electrons_per_orbit": "2,8,13,1",
+    "description": "Используется для хромирования и нержавеющей стали"
+  },
+  "Manganese": {
+    "electrons_per_orbit": "2,8,13,2",
+    "description": "Важен для производства стали и ферросплавов"
+  },
+  "Iron": {
+    "electrons_per_orbit": "2,8,14,2",
+    "description": "Основной компонент стали и гемоглобина в крови"
+  },
+  "Cobalt": {
+    "electrons_per_orbit": "2,8,15,2",
+    "description": "Используется в магнитах и синих пигментах"
+  },
+  "Nickel": {
+    "electrons_per_orbit": "2,8,16,2",
+    "description": "Применяется в монетах и нержавеющей стали"
+  },
+  "Copper": {
+    "electrons_per_orbit": "2,8,18,1",
+    "description": "Хороший проводник тепла и электричества"
+  },
+  "Zinc": {
+    "electrons_per_orbit": "2,8,18,2",
+    "description": "Защищает сталь от коррозии (оцинковка)"
+  },
+  "Gallium": {
+    "electrons_per_orbit": "2,8,18,3",
+    "description": "Плавится в руке (температура плавления 29.76°C)"
+  },
+  "Germanium": {
+    "electrons_per_orbit": "2,8,18,4",
+    "description": "Полупроводник, используемый в электронике"
+  },
+  "Arsenic": {
+    "electrons_per_orbit": "2,8,18,5",
+    "description": "Известный яд, но также используется в полупроводниках"
+  },
+  "Selenium": {
+    "electrons_per_orbit": "2,8,18,6",
+    "description": "Важен для фотокопировальных аппаратов и солнечных батарей"
+  },
+  "Bromine": {
+    "electrons_per_orbit": "2,8,18,7",
+    "description": "Единственный жидкий неметалл при комнатной температуре"
+  },
+  "Krypton": {
+    "electrons_per_orbit": "2,8,18,8",
+    "description": "Используется в лазерах и фотовспышках"
+  },
+  "Rubidium": {
+    "electrons_per_orbit": "2,8,18,8,1",
+    "description": "Очень реактивный щелочной металл"
+  },
+  "Strontium": {
+    "electrons_per_orbit": "2,8,18,8,2",
+    "description": "Дает ярко-красный цвет в фейерверках"
+  },
+  "Yttrium": {
+    "electrons_per_orbit": "2,8,18,9,2",
+    "description": "Используется в сверхпроводниках и LED-экранах"
+  },
+  "Zirconium": {
+    "electrons_per_orbit": "2,8,18,10,2",
+    "description": "Применяется в ядерных реакторах (низкое поглощение нейтронов)"
+  },
+  "Niobium": {
+    "electrons_per_orbit": "2,8,18,12,1",
+    "description": "Используется в сверхпроводящих магнитах"
+  },
+  "Molybdenum": {
+    "electrons_per_orbit": "2,8,18,13,1",
+    "description": "Важен для производства высокопрочных сталей"
+  },
+  "Technetium": {
+    "electrons_per_orbit": "2,8,18,13,2",
+    "description": "Первый искусственно созданный элемент"
+  },
+  "Ruthenium": {
+    "electrons_per_orbit": "2,8,18,15,1",
+    "description": "Используется в электронных контактах и солнечных элементах"
+  },
+  "Rhodium": {
+    "electrons_per_orbit": "2,8,18,16,1",
+    "description": "Самый дорогой драгоценный металл (2023)"
+  },
+  "Palladium": {
+    "electrons_per_orbit": "2,8,18,18",
+    "description": "Используется в каталитических нейтрализаторах автомобилей"
+  },
+  "Silver": {
+    "electrons_per_orbit": "2,8,18,18,1",
+    "description": "Лучший проводник тепла и электричества среди металлов"
+  },
+  "Cadmium": {
+    "electrons_per_orbit": "2,8,18,18,2",
+    "description": "Токсичен, используется в никель-кадмиевых батареях"
+  },
+  "Indium": {
+    "electrons_per_orbit": "2,8,18,18,3",
+    "description": "Важен для производства жидкокристаллических дисплеев"
+  },
+  "Tin": {
+    "electrons_per_orbit": "2,8,18,18,4",
+    "description": "Компонент бронзы, используется для лужения железа"
+  },
+  "Antimony": {
+    "electrons_per_orbit": "2,8,18,18,5",
+    "description": "Использовался в древности как косметика и лекарство"
+  },
+  "Tellurium": {
+    "electrons_per_orbit": "2,8,18,18,6",
+    "description": "Придает металлический блеск золоту в сплавах"
+  },
+  "Iodine": {
+    "electrons_per_orbit": "2,8,18,18,7",
+    "description": "Важен для функции щитовидной железы"
+  },
+  "Xenon": {
+    "electrons_per_orbit": "2,8,18,18,8",
+    "description": "Используется в ионных двигателях космических аппаратов"
+  },
+  "Cesium": {
+    "electrons_per_orbit": "2,8,18,18,8,1",
+    "description": "Используется в атомных часах (самые точные часы в мире)"
+  },
+  "Barium": {
+    "electrons_per_orbit": "2,8,18,18,8,2",
+    "description": "Придает зеленый цвет фейерверкам"
+  },
+  "Lanthanum": {
+    "electrons_per_orbit": "2,8,18,18,9,2",
+    "description": "Первый элемент группы лантаноидов"
+  },
+  "Cerium": {
+    "electrons_per_orbit": "2,8,18,19,9,2",
+    "description": "Используется в катализаторах и зажигалках"
+  },
+  "Praseodymium": {
+    "electrons_per_orbit": "2,8,18,21,8,2",
+    "description": "Придает желтый оттенок стеклу и керамике"
+  },
+  "Neodymium": {
+    "electrons_per_orbit": "2,8,18,22,8,2",
+    "description": "Используется в мощных постоянных магнитах"
+  },
+  "Promethium": {
+    "electrons_per_orbit": "2,8,18,23,8,2",
+    "description": "Единственный радиоактивный лантаноид"
+  },
+  "Samarium": {
+    "electrons_per_orbit": "2,8,18,24,8,2",
+    "description": "Используется в мощных магнитах и ядерных реакторах"
+  },
+  "Europium": {
+    "electrons_per_orbit": "2,8,18,25,8,2",
+    "description": "Дает красный цвет в телевизионных экранах"
+  },
+  "Gadolinium": {
+    "electrons_per_orbit": "2,8,18,25,9,2",
+    "description": "Используется в контрастных веществах для МРТ"
+  },
+  "Terbium": {
+    "electrons_per_orbit": "2,8,18,27,8,2",
+    "description": "Важен для производства зеленых люминофоров"
+  },
+  "Dysprosium": {
+    "electrons_per_orbit": "2,8,18,28,8,2",
+    "description": "Используется в неодимовых магнитах и лазерах"
+  },
+  "Holmium": {
+    "electrons_per_orbit": "2,8,18,29,8,2",
+    "description": "Имеет самые высокие магнитные свойства среди элементов"
+  },
+  "Erbium": {
+    "electrons_per_orbit": "2,8,18,30,8,2",
+    "description": "Используется в оптоволоконной связи"
+  },
+  "Thulium": {
+    "electrons_per_orbit": "2,8,18,31,8,2",
+    "description": "Самый редкий из лантаноидов"
+  },
+  "Ytterbium": {
+    "electrons_per_orbit": "2,8,18,32,8,2",
+    "description": "Используется в атомных часах и лазерах"
+  },
+  "Lutetium": {
+    "electrons_per_orbit": "2,8,18,32,9,2",
+    "description": "Последний элемент в группе лантаноидов"
+  },
+  "Hafnium": {
+    "electrons_per_orbit": "2,8,18,32,10,2",
+    "description": "Используется в ядерных реакторах и процессорах"
+  },
+  "Tantalum": {
+    "electrons_per_orbit": "2,8,18,32,11,2",
+    "description": "Применяется в конденсаторах электронных устройств"
+  },
+  "Tungsten": {
+    "electrons_per_orbit": "2,8,18,32,12,2",
+    "description": "Самый тугоплавкий металл (температура плавления 3422°C)"
+  },
+  "Rhenium": {
+    "electrons_per_orbit": "2,8,18,32,13,2",
+    "description": "Один из самых редких элементов в земной коре"
+  },
+  "Osmium": {
+    "electrons_per_orbit": "2,8,18,32,14,2",
+    "description": "Самый плотный природный элемент (22.59 г/см³)"
+  },
+  "Iridium": {
+    "electrons_per_orbit": "2,8,18,32,15,2",
+    "description": "Редкий металл, связанный с вымиранием динозавров"
+  },
+  "Platinum": {
+    "electrons_per_orbit": "2,8,18,32,17,1",
+    "description": "Драгоценный металл, используемый в катализаторах"
+  },
+  "Gold": {
+    "electrons_per_orbit": "2,8,18,32,18,1",
+    "description": "Ценился с древних времен за редкость и красоту"
+  },
+  "Mercury": {
+    "electrons_per_orbit": "2,8,18,32,18,2",
+    "description": "Единственный жидкий металл при комнатной температуре"
+  },
+  "Thallium": {
+    "electrons_per_orbit": "2,8,18,32,18,3",
+    "description": "Сильный яд, ранее использовался как средство для депиляции"
+  },
+  "Lead": {
+    "electrons_per_orbit": "2,8,18,32,18,4",
+    "description": "Использовался с древности, но токсичен"
+  },
+  "Bismuth": {
+    "electrons_per_orbit": "2,8,18,32,18,5",
+    "description": "Самый тяжелый стабильный элемент (все тяжелее - радиоактивны)"
+  },
+  "Polonium": {
+    "electrons_per_orbit": "2,8,18,32,18,6",
+    "description": "Сильно радиоактивен, использовался для убийств"
+  },
+  "Astatine": {
+    "electrons_per_orbit": "2,8,18,32,18,7",
+    "description": "Самый редкий природный элемент на Земле"
+  },
+  "Radon": {
+    "electrons_per_orbit": "2,8,18,32,18,8",
+    "description": "Радиоактивный газ, опасен для здоровья"
+  },
+  "Francium": {
+    "electrons_per_orbit": "2,8,18,32,18,8,1",
+    "description": "Самый нестабильный первый элемент группы"
+  },
+  "Radium": {
+    "electrons_per_orbit": "2,8,18,32,18,8,2",
+    "description": "Использовался в светящихся красках (очень радиоактивен)"
+  },
+  "Actinium": {
+    "electrons_per_orbit": "2,8,18,32,18,9,2",
+    "description": "Первый элемент группы актиноидов"
+  },
+  "Thorium": {
+    "electrons_per_orbit": "2,8,18,32,18,10,2",
+    "description": "Потенциальное топливо для ядерных реакторов"
+  },
+  "Protactinium": {
+    "electrons_per_orbit": "2,8,18,32,20,9,2",
+    "description": "Один из самых редких и дорогих элементов"
+  },
+  "Uranium": {
+    "electrons_per_orbit": "2,8,18,32,21,9,2",
+    "description": "Основное топливо для ядерных реакторов"
+  },
+  "Neptunium": {
+    "electrons_per_orbit": "2,8,18,32,22,9,2",
+    "description": "Первый искусственно созданный трансурановый элемент"
+  },
+  "Plutonium": {
+    "electrons_per_orbit": "2,8,18,32,24,8,2",
+    "description": "Используется в ядерном оружии и реакторах"
+  },
+  "Americium": {
+    "electrons_per_orbit": "2,8,18,32,25,8,2",
+    "description": "Применяется в детекторах дыма"
+  },
+  "Curium": {
+    "electrons_per_orbit": "2,8,18,32,25,9,2",
+    "description": "Назван в честь Марии и Пьера Кюри"
+  },
+  "Berkelium": {
+    "electrons_per_orbit": "2,8,18,32,27,8,2",
+    "description": "Назван в честь города Беркли, где был открыт"
+  },
+  "Californium": {
+    "electrons_per_orbit": "2,8,18,32,28,8,2",
+    "description": "Используется как источник нейтронов"
+  },
+  "Einsteinium": {
+    "electrons_per_orbit": "2,8,18,32,29,8,2",
+    "description": "Назван в честь Альберта Эйнштейна"
+  },
+  "Fermium": {
+    "electrons_per_orbit": "2,8,18,32,30,8,2",
+    "description": "Назван в честь Энрико Ферми"
+  },
+  "Mendelevium": {
+    "electrons_per_orbit": "2,8,18,32,31,8,2",
+    "description": "Назван в честь Дмитрия Менделеева"
+  },
+  "Nobelium": {
+    "electrons_per_orbit": "2,8,18,32,32,8,2",
+    "description": "Назван в честь Альфреда Нобеля"
+  },
+  "Lawrencium": {
+    "electrons_per_orbit": "2,8,18,32,32,8,3",
+    "description": "Назван в честь Эрнеста Лоуренса"
+  },
+  "Rutherfordium": {
+    "electrons_per_orbit": "2,8,18,32,32,10,2",
+    "description": "Первый трансактиноидный элемент"
+  },
+  "Dubnium": {
+    "electrons_per_orbit": "2,8,18,32,32,11,2",
+    "description": "Назван в честь российского города Дубна"
+  },
+  "Seaborgium": {
+    "electrons_per_orbit": "2,8,18,32,32,12,2",
+    "description": "Назван в честь Гленна Сиборга"
+  },
+  "Bohrium": {
+    "electrons_per_orbit": "2,8,18,32,32,13,2",
+    "description": "Назван в честь Нильса Бора"
+  },
+  "Hassium": {
+    "electrons_per_orbit": "2,8,18,32,32,14,2",
+    "description": "Назван в честь немецкой земли Гессен"
+  },
+  "Meitnerium": {
+    "electrons_per_orbit": "2,8,18,32,32,15,2",
+    "description": "Назван в честь Лизы Мейтнер"
+  },
+  "Darmstadtium": {
+    "electrons_per_orbit": "2,8,18,32,32,16,2",
+    "description": "Назван в честь города Дармштадт в Германии"
+  },
+  "Roentgenium": {
+    "electrons_per_orbit": "2,8,18,32,32,17,2",
+    "description": "Назван в честь Вильгельма Рентгена"
+  },
+  "Copernicium": {
+    "electrons_per_orbit": "2,8,18,32,32,18,2",
+    "description": "Назван в честь Николая Коперника"
+  },
+  "Nihonium": {
+    "electrons_per_orbit": "2,8,18,32,32,18,3",
+    "description": "Первый элемент, названный в честь Японии (Nihon)"
+  },
+  "Flerovium": {
+    "electrons_per_orbit": "2,8,18,32,32,18,4",
+    "description": "Назван в честь Лаборатории ядерных реакций им. Флёрова"
+  },
+  "Moscovium": {
+    "electrons_per_orbit": "2,8,18,32,32,18,5",
+    "description": "Назван в честь Московской области"
+  },
+  "Livermorium": {
+    "electrons_per_orbit": "2,8,18,32,32,18,6",
+    "description": "Назван в честь Ливерморской национальной лаборатории"
+  },
+  "Tennessine": {
+    "electrons_per_orbit": "2,8,18,32,32,18,7",
+    "description": "Назван в честь штата Теннесси, США"
+  },
+  "Oganesson": {
+    "electrons_per_orbit": "2,8,18,32,32,18,8",
+    "description": "Назван в честь Юрия Оганесяна, единственный элемент, названный при жизни ученого"
+  }
+}
