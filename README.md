@@ -49,34 +49,3 @@
 | <img src="https://static.rustore.ru/imgproxy/bpM9BPbxpMGW-owuePYNHUhlJVAuqp4cEOCZaXw4tVA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063636184/content/SCREENSHOT/e964cad5-8c9b-4d96-80c3-e1e4e39eabe4.png@webp" width="200" alt="Главное меню"> | <img src="https://static.rustore.ru/imgproxy/3983gsffsgBHSWC3RV8pyfy8AdmNEiQcFUGA0yDR8VA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063636184/content/SCREENSHOT/5d826e10-17ac-4054-b966-be7161360796.png@webp" width="200" alt="Конструктор"> | <img src="https://static.rustore.ru/imgproxy/1e0xYWAEam9ZragE58KmaLjeZyr9l0TsIA0_QnqoVmo/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063636184/content/SCREENSHOT/171e8143-2cea-4d35-9c57-330b6af0a4f6.png@webp" width="200" alt="Испытания"> | <img src="https://static.rustore.ru/imgproxy/XCttx07RVcqDSII0CdXKhKt2bypzO0OZI5_R3u5Z6no/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063636184/content/SCREENSHOT/bd4edcc0-2192-4121-a83d-a09612eefc2a.png@webp" width="200" alt="Прогресс"> |
 
 </div>
-
-## 🆕 Что нового (версия 1.1, 6 июня 2025)
-
-- Появились достижения, их можно отслеживать в разделе **«Прогресс»**  
-- В режиме испытаний стало **больше времени** на постройку атома  
-- Исправлены мелкие ошибки
-
-## 👨‍💻 Разработчик
-
-**Савин Иван**  
-- 💬 **Telegram**: [@AnikiCC](https://t.me/AnikiCC)
-
-## 📌 Дополнительно
-
-- **Рейтинг**: 0,0 (пока нет оценок)  
-- **Скачиваний**: до 1 тыс.  
-- **Размер**: 10.4 МБ  
-- **Возрастное ограничение**: 0+
-
-> 🎮 **Отзыв пользователя**:  
-> _«Интересный интерфейс, подучил химию.»_
-
----
-
-<div align="center">
-
-### 🎉 Учись химии играя!
-
-[⬆️ Вернуться к началу](#atom-builder-)
-
-</div>
